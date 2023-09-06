@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactAlbumList/static/css/main.bfaa305c.css",
+    "main.js": "/ReactAlbumList/static/js/main.3f3a5305.js",
+    "static/js/787.dfc0adc8.chunk.js": "/ReactAlbumList/static/js/787.dfc0adc8.chunk.js",
+    "index.html": "/ReactAlbumList/index.html",
+    "main.bfaa305c.css.map": "/ReactAlbumList/static/css/main.bfaa305c.css.map",
+    "main.3f3a5305.js.map": "/ReactAlbumList/static/js/main.3f3a5305.js.map",
+    "787.dfc0adc8.chunk.js.map": "/ReactAlbumList/static/js/787.dfc0adc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfaa305c.css",
+    "static/js/main.3f3a5305.js"
+  ]
+}
